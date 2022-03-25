@@ -281,7 +281,7 @@ a.text-dark:hover, a.text-dark:focus {
   border-radius: 50px;
   border-color: transparent;
 } 
-button {
+ button {
 	width: 170px;
 	height: 50px;
   margin: 3%;
@@ -292,7 +292,7 @@ button {
 	border: none;
 	border-radius: 5px;
 	box-shadow: 1px 1px 3px rgba(0,0,0,0.15);
-	background: #ab73b9;
+	background: #ab73b9; 
 }
 
 button, button span {
@@ -304,6 +304,7 @@ button .text {
 	color: white;
 	font-weight: bold;
 }
+
 
 button .icon {
 	position: absolute;
