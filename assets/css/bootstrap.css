@@ -81,7 +81,9 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   margin-top: 0;
+  margin-left: 10px;
   margin-bottom: 1rem;
+  margin-right: 10px;
 }
 
 abbr[title],
@@ -542,8 +544,8 @@ pre code {
 
 .container {
   width: 100%;
-  padding-right: 15px;
-  padding-left: 10px;
+  padding-right: 1px;
+  padding-left: 0px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -1349,7 +1351,7 @@ pre code {
   .col-lg-4 {
     -ms-flex: 0 0 33.333333%;
     flex: 0 0 33.333333%;
-    max-width: 33.333333%;
+    max-width: 31.333333%;
   }
   .col-lg-5 {
     -ms-flex: 0 0 41.666667%;

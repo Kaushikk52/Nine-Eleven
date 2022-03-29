@@ -571,7 +571,7 @@ button:focus {
 @import url('https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i');
 body{
   font-family: 'Muli', sans-serif;
-  background:rgb(238, 219, 231);
+  background:white;
 }
 .shell{
   padding:60px 0;
@@ -1329,7 +1329,8 @@ a.buy-btn{
 }
 
 .fh5co-heading {
-  margin-left: 25%;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 5em;
 }
 .fh5co-heading h2 {
@@ -1443,7 +1444,7 @@ a.buy-btn{
   text-align: center !important;
 }
 .pt-5 ,.py-5 {
-  padding-bottom:2rem !important;
+  padding-bottom:0rem !important;
 }
 
 /* Course end */
@@ -2417,7 +2418,7 @@ a.buy-btn{
 
 .footer-sosmed a:hover {
   background-color: #fff;
-  color: black;
+  color: #666873;
   text-decoration: none;
 }
 
